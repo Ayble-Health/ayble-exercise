@@ -1,0 +1,3 @@
+patient_id,first_name,last_name,date_of_birth,timezone
+p001,Jordan,Reyes,1990-04-12,America/New_York
+p002,Amara,Chen,1985-11-02,America/Los_Angeles

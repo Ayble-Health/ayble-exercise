@@ -1,0 +1,13 @@
+food_id,name,categories
+f001,Whole Milk,"Dairy"
+f002,Cheddar Cheese,"dairy"
+f003,White Bread,"gluten"
+f004,Garlic,"high-fodmap"
+f005,Broccoli,"high-fodmap;cruciferous"
+f006,Grilled Chicken,""
+f007,White Rice,""
+f008,Banana,"low-fodmap"
+f009,Greek Yogurt,"Dairy,High-Fodmap"
+f010,Black Beans,"high_fodmap"
+f011,Coffee,""
+f012,Parmesan Cheese,"dairy"

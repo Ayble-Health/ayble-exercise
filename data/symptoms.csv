@@ -1,0 +1,9 @@
+log_id,patient_id,logged_at,symptom_type,severity,notes
+s001,p001,2026-08-01T22:10:00-04:00,bloating,4,
+s002,p001,2026-08-01T22:12:00-04:00,bloating,4,felt worse lying down
+s003,p001,2026-08-02T23:30:00-04:00,cramping,moderate,
+s004,p001,2026-08-03T01:00:00Z,diarrhea,severe,woke up during the night
+s005,p001,2026-08-03T21:45:00-04:00,bloating,3,
+s006,p002,2026-08-01T20:00:00-07:00,nausea,2,
+s007,p002,2026-08-02T22:15:00-07:00,cramping,severe,
+s008,p099,2026-08-02T09:00:00-07:00,bloating,2,

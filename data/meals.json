@@ -1,0 +1,15 @@
+[
+  {"meal_id": "m001", "patient_id": "p001", "logged_at": "2026-08-01T08:15:00-04:00", "food_ids": ["f011", "f008"]},
+  {"meal_id": "m002", "patient_id": "p001", "logged_at": "2026-08-01T13:00:00-04:00", "food_ids": ["f006", "f007", "f005"]},
+  {"meal_id": "m003", "patient_id": "p001", "logged_at": "2026-08-01T19:30:00-04:00", "food_ids": ["f002", "f003"]},
+  {"meal_id": "m004", "patient_id": "p001", "logged_at": "2026-08-02T08:00:00Z", "food_ids": ["f009"]},
+  {"meal_id": "m005", "patient_id": "p001", "logged_at": "2026-08-02T12:30:00-04:00", "food_ids": ["f003", "f999"]},
+  {"meal_id": "m006", "patient_id": "p001", "logged_at": "2026-08-02T18:45:00-04:00", "food_ids": ["f002", "f010"]},
+  {"meal_id": "m007", "patient_id": "p001", "logged_at": "2026-08-02T18:46:00-04:00", "food_ids": ["f002", "f010"]},
+  {"meal_id": "m008", "patient_id": "p001", "logged_at": "2026-08-03T08:30:00-04:00", "food_ids": ["f006", "f011"]},
+  {"meal_id": "m009", "patient_id": "p001", "logged_at": "2026-08-03T20:00:00-04:00", "food_ids": ["f012", "f003"]},
+  {"meal_id": "m010", "patient_id": "p002", "logged_at": "2026-08-01T09:00:00-07:00", "food_ids": ["f008"]},
+  {"meal_id": "m011", "patient_id": "p002", "logged_at": "2026-08-01T18:30:00-07:00", "food_ids": ["f007", "f010"]},
+  {"meal_id": "m012", "patient_id": "p002", "logged_at": "2026-08-02T19:00:00-07:00", "food_ids": ["f001"]},
+  {"meal_id": "m013", "patient_id": "p002", "logged_at": "2026-08-03T08:15:00-07:00", "food_ids": ["f011", "f001"]}
+]
