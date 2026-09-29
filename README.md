@@ -17,8 +17,8 @@ A full-stack internal tool with three parts:
 
 ### A. Data layer
 Design and populate reasonable database tables from the four source files. You
-don't need to preserve their shapes 1:1 — normalize however you think is
-appropriate, and be ready to explain your schema.
+don't need to preserve their shapes 1:1 — design your schema however you think
+is appropriate, and be ready to explain your schema.
 
 ### B. API
 Build endpoints to:
@@ -57,7 +57,9 @@ Use whatever you're fastest in. We use **React / React Native, Python
 - Code organization and reuse
 - **Your ability to explain every decision** — including ones an AI tool made
   for you. We'll ask you to walk through your schema, your merge/normalization
-  logic, and any product judgment behind what you chose to build.
+  logic, your API and UI, and any product judgment behind what you chose to
+  build. We'd love to hear your ideas for how you could expand or improve this
+  if you had an entire sprint to work on it.
 
 ## What to Submit
 - A link to a repo
