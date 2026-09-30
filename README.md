@@ -1,9 +1,10 @@
 # Take-Home Exercise: GI Trigger-Food Review Tool
 
 ## Context
-Ayble's care team wants a simple internal tool to review a patient's meals and
-GI symptoms over time, so they can spot possible trigger foods and prepare for
-check-ins.
+Ayble's care team (ie, doctors and dietitians) wants a simple internal tool to
+review a patient's meals and GI symptoms over time, so they can make
+observations/correlations between the food the patient is eating and their
+symptoms. This will allow them to prepare for meetings with the patient.
 
 Data for this tool comes from a few different systems, and the exports in
 `data/` reflect that — they weren't produced by one team with one convention.
